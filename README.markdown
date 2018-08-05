@@ -1,3 +1,6 @@
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/dotfiles-6.svg)](https://www.guardrails.io)
+
 [View my dotfiles on BitBucket](http://bitbucket.org/sjl/dotfiles/)
 
 For a while I've been maintaining a mirror of my dotfiles here on GitHub.
